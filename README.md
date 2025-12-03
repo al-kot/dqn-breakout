@@ -1,0 +1,3 @@
+- The implementation - `./dqn_breakout.ipynb` notebook
+- Report - `./report.pdf`
+- Examples of gameplay - `./video_output/`
